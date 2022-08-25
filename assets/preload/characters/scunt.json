@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				1
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Scout_Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				19,
+				-97
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Scout_Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				196,
+				22
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Scout_Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				106,
+				-17
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Scout_Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Scout_Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/scunt",
+	"position": [
+		0,
+		60
+	],
+	"healthicon": "scout",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		0,
+		0
+	],
+	"camera_position": [
+		-160,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

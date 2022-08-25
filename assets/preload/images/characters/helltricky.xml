@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="helltricky.png"><SubTexture name="helltricky idle0000" x="0" y="0" width="964" height="604" frameX="0" frameY="0" frameWidth="964" frameHeight="604" />
+<SubTexture name="helltricky idle0001" x="964" y="0" width="964" height="604" frameX="0" frameY="0" frameWidth="964" frameHeight="604" />
+<SubTexture name="helltricky idle0002" x="1928" y="0" width="964" height="604" frameX="0" frameY="0" frameWidth="964" frameHeight="604" />
+<SubTexture name="helltricky idle0003" x="2892" y="0" width="964" height="604" frameX="0" frameY="0" frameWidth="964" frameHeight="604" />
+<SubTexture name="helltricky idle0004" x="0" y="604" width="964" height="604" frameX="0" frameY="0" frameWidth="964" frameHeight="604" />
+<SubTexture name="helltricky idle0005" x="964" y="604" width="964" height="604" frameX="0" frameY="0" frameWidth="964" frameHeight="604" />
+<SubTexture name="helltricky right0000" x="1928" y="604" width="964" height="604" frameX="0" frameY="0" frameWidth="964" frameHeight="604" />
+<SubTexture name="helltricky right0001" x="2892" y="604" width="964" height="604" frameX="0" frameY="0" frameWidth="964" frameHeight="604" />
+<SubTexture name="helltricky right0002" x="0" y="1208" width="964" height="604" frameX="0" frameY="0" frameWidth="964" frameHeight="604" />
+<SubTexture name="helltricky left0000" x="964" y="1208" width="964" height="604" frameX="0" frameY="0" frameWidth="964" frameHeight="604" />
+<SubTexture name="helltricky left0001" x="1928" y="1208" width="964" height="604" frameX="0" frameY="0" frameWidth="964" frameHeight="604" />
+<SubTexture name="helltricky left0002" x="2892" y="1208" width="964" height="604" frameX="0" frameY="0" frameWidth="964" frameHeight="604" />
+<SubTexture name="helltricky down0000" x="0" y="1812" width="964" height="604" frameX="0" frameY="0" frameWidth="964" frameHeight="604" />
+<SubTexture name="helltricky down0001" x="964" y="1812" width="964" height="604" frameX="0" frameY="0" frameWidth="964" frameHeight="604" />
+<SubTexture name="helltricky down0002" x="1928" y="1812" width="964" height="604" frameX="0" frameY="0" frameWidth="964" frameHeight="604" />
+<SubTexture name="helltricky up0000" x="2892" y="1812" width="964" height="604" frameX="0" frameY="0" frameWidth="964" frameHeight="604" />
+<SubTexture name="helltricky up0001" x="0" y="2416" width="964" height="604" frameX="0" frameY="0" frameWidth="964" frameHeight="604" />
+<SubTexture name="helltricky up0002" x="964" y="2416" width="964" height="604" frameX="0" frameY="0" frameWidth="964" frameHeight="604" />
+</TextureAtlas>

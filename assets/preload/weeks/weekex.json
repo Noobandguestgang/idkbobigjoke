@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Copy-Cat-Ex",
+			"dream",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Jump-out-Ex",
+			"gloopy-ex",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Ronald McDonald Slide-Ex",
+			"ron-ex",
+			[
+				226,
+				213,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "weekex",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

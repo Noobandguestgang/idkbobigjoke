@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="heavy.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Heavy_Down0000" x="0" y="0" width="456" height="693" frameX="0" frameY="-17" frameWidth="464" frameHeight="710"/>
+	<SubTexture name="Heavy_Down0001" x="0" y="0" width="456" height="693" frameX="0" frameY="-17" frameWidth="464" frameHeight="710"/>
+	<SubTexture name="Heavy_Down0002" x="456" y="0" width="460" height="695" frameX="0" frameY="-15" frameWidth="464" frameHeight="710"/>
+	<SubTexture name="Heavy_Down0003" x="456" y="0" width="460" height="695" frameX="0" frameY="-15" frameWidth="464" frameHeight="710"/>
+	<SubTexture name="Heavy_Down0004" x="916" y="0" width="464" height="706" frameX="0" frameY="-4" frameWidth="464" frameHeight="710"/>
+	<SubTexture name="Heavy_Down0005" x="1380" y="0" width="462" height="710" frameX="0" frameY="0" frameWidth="464" frameHeight="710"/>
+	<SubTexture name="Heavy_Down0006" x="1380" y="0" width="462" height="710" frameX="0" frameY="0" frameWidth="464" frameHeight="710"/>
+	<SubTexture name="Heavy_Idle0000" x="1842" y="0" width="473" height="764" frameX="-8" frameY="-18" frameWidth="481" frameHeight="783"/>
+	<SubTexture name="Heavy_Idle0001" x="1842" y="0" width="473" height="764" frameX="-8" frameY="-18" frameWidth="481" frameHeight="783"/>
+	<SubTexture name="Heavy_Idle0002" x="2315" y="0" width="481" height="779" frameX="0" frameY="-3" frameWidth="481" frameHeight="783"/>
+	<SubTexture name="Heavy_Idle0003" x="2315" y="0" width="481" height="779" frameX="0" frameY="-3" frameWidth="481" frameHeight="783"/>
+	<SubTexture name="Heavy_Idle0004" x="2796" y="0" width="481" height="781" frameX="0" frameY="-1" frameWidth="481" frameHeight="783"/>
+	<SubTexture name="Heavy_Idle0005" x="2796" y="0" width="481" height="781" frameX="0" frameY="-1" frameWidth="481" frameHeight="783"/>
+	<SubTexture name="Heavy_Idle0006" x="3277" y="0" width="479" height="783" frameX="0" frameY="0" frameWidth="481" frameHeight="783"/>
+	<SubTexture name="Heavy_Left0000" x="0" y="783" width="530" height="772" frameX="0" frameY="-22" frameWidth="535" frameHeight="794"/>
+	<SubTexture name="Heavy_Left0001" x="0" y="783" width="530" height="772" frameX="0" frameY="-22" frameWidth="535" frameHeight="794"/>
+	<SubTexture name="Heavy_Left0002" x="530" y="783" width="531" height="772" frameX="-3" frameY="-22" frameWidth="535" frameHeight="794"/>
+	<SubTexture name="Heavy_Left0003" x="530" y="783" width="531" height="772" frameX="-3" frameY="-22" frameWidth="535" frameHeight="794"/>
+	<SubTexture name="Heavy_Left0004" x="1061" y="783" width="528" height="793" frameX="-7" frameY="-1" frameWidth="535" frameHeight="794"/>
+	<SubTexture name="Heavy_Left0005" x="1589" y="783" width="526" height="794" frameX="-8" frameY="0" frameWidth="535" frameHeight="794"/>
+	<SubTexture name="Heavy_Left0006" x="1589" y="783" width="526" height="794" frameX="-8" frameY="0" frameWidth="535" frameHeight="794"/>
+	<SubTexture name="Heavy_Right0000" x="2115" y="783" width="713" height="662" frameX="-6" frameY="-11" frameWidth="719" frameHeight="674"/>
+	<SubTexture name="Heavy_Right0001" x="2115" y="783" width="713" height="662" frameX="-6" frameY="-11" frameWidth="719" frameHeight="674"/>
+	<SubTexture name="Heavy_Right0002" x="2828" y="783" width="713" height="663" frameX="-5" frameY="-10" frameWidth="719" frameHeight="674"/>
+	<SubTexture name="Heavy_Right0003" x="2828" y="783" width="713" height="663" frameX="-5" frameY="-10" frameWidth="719" frameHeight="674"/>
+	<SubTexture name="Heavy_Right0004" x="0" y="1577" width="711" height="673" frameX="-2" frameY="-1" frameWidth="719" frameHeight="674"/>
+	<SubTexture name="Heavy_Right0005" x="711" y="1577" width="711" height="674" frameX="0" frameY="0" frameWidth="719" frameHeight="674"/>
+	<SubTexture name="Heavy_Right0006" x="711" y="1577" width="711" height="674" frameX="0" frameY="0" frameWidth="719" frameHeight="674"/>
+	<SubTexture name="Heavy_Up0000" x="1422" y="1577" width="398" height="912" frameX="-1" frameY="0" frameWidth="399" frameHeight="912"/>
+	<SubTexture name="Heavy_Up0001" x="1422" y="1577" width="398" height="912" frameX="-1" frameY="0" frameWidth="399" frameHeight="912"/>
+	<SubTexture name="Heavy_Up0002" x="1820" y="1577" width="398" height="910" frameX="-1" frameY="-2" frameWidth="399" frameHeight="912"/>
+	<SubTexture name="Heavy_Up0003" x="1820" y="1577" width="398" height="910" frameX="-1" frameY="-2" frameWidth="399" frameHeight="912"/>
+	<SubTexture name="Heavy_Up0004" x="2218" y="1577" width="399" height="883" frameX="0" frameY="-28" frameWidth="399" frameHeight="912"/>
+	<SubTexture name="Heavy_Up0005" x="2617" y="1577" width="399" height="883" frameX="0" frameY="-28" frameWidth="399" frameHeight="912"/>
+	<SubTexture name="Heavy_Up0006" x="2617" y="1577" width="399" height="883" frameX="0" frameY="-28" frameWidth="399" frameHeight="912"/>
+</TextureAtlas>

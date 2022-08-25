@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "soldier idle"
+		},
+		{
+			"offsets": [
+				147,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "soldier left"
+		},
+		{
+			"offsets": [
+				4,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "soldier right"
+		},
+		{
+			"offsets": [
+				4,
+				-205
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "soldier down"
+		},
+		{
+			"offsets": [
+				24,
+				111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "soldier up"
+		},
+		{
+			"offsets": [
+				40,
+				32
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "soldier shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/soldier",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "soldier",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		0,
+		0
+	],
+	"camera_position": [
+		-210,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

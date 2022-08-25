@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"atomicpunch",
+			"scout",
+			[
+				226,
+				0,
+				0
+			]
+		],
+		[
+			"maggots",
+			"soldier",
+			[
+				226,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "meet the team",
+	"weekName": "mannco week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
